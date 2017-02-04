@@ -1,0 +1,82 @@
+************************************************
+* PROGRAMMED BY  : Jesus Sanchez
+* STUDENT ID     : 1024834
+* CLASS          : MW: 1:30pm - 2:50pm
+* ASSIGNMENT #2  : Employee Inheritance
+************************************************
+
+Employee object calling the default constructor:
+Name                 ID #  Phone        Age Gender Job Title       Salary  Hire Date  
+-------------------  ----- ------------ --- ------ -------------- -------- ---------- 
+                     0                  0                         $        00/00/0000
+
+Employee object calling the non-default constructor:
+Name                 ID #  Phone        Age Gender Job Title       Salary  Hire Date  
+-------------------  ----- ------------ --- ------ -------------- -------- ---------- 
+Barack Obama         12346 310-555-5555 51  M      Comedian       $70,123  05/08/2015
+
+Programmer object calling the default constructor:
+Name                 ID #  Phone        Age Gender Job Title       Salary  Hire Date  
+-------------------  ----- ------------ --- ------ -------------- -------- ---------- 
+                     0                  0                         $        00/00/0000
+
+                     Department Supervisor's    Raise C++        Java       
+                                Name            %     Knowledge  Knowledge  
+                     ---------- --------------- ----- ---------- ---------- 
+                     0                          0%    No         No         
+
+Programmer object calling the non-default constructor:
+Name                 ID #  Phone        Age Gender Job Title       Salary  Hire Date  
+-------------------  ----- ------------ --- ------ -------------- -------- ---------- 
+Sam Software         54321 819-123-4567 21  M      Programmer     $223,000 12/24/2011
+
+                     Department Supervisor's    Raise C++        Java       
+                                Name            %     Knowledge  Knowledge  
+                     ---------- --------------- ----- ---------- ---------- 
+                     5432122    Joe Boss        4%    Yes        No         
+
+Software Architect object calling the default constructor:
+Name                 ID #  Phone        Age Gender Job Title       Salary  Hire Date  
+-------------------  ----- ------------ --- ------ -------------- -------- ---------- 
+                     0                  0                         $        00/00/0000
+
+                     Department Supervisor's    Raise Years of  
+                                Name            %     Experience
+                     ---------- --------------- ----- ----------
+                     0                          0%    0         
+
+Software Architect object calling the non-default constructor:
+Name                 ID #  Phone        Age Gender Job Title       Salary  Hire Date  
+-------------------  ----- ------------ --- ------ -------------- -------- ---------- 
+Alex Arch            88888 819-123-4444 31  M      Architect      $323,000 12/24/2009
+
+                     Department Supervisor's    Raise Years of  
+                                Name            %     Experience
+                     ---------- --------------- ----- ----------
+                     5434222    Big Boss        5%    4         
+
+First Employee object after changing the data members:
+Name                 ID #  Phone        Age Gender Job Title       Salary  Hire Date  
+-------------------  ----- ------------ --- ------ -------------- -------- ---------- 
+Hillary Clinton      77777 203-555-6789 58  F      News Reporter  $500,500 03/01/2005
+
+First Programmer object after changing the data members:
+Name                 ID #  Phone        Age Gender Job Title       Salary  Hire Date  
+-------------------  ----- ------------ --- ------ -------------- -------- ---------- 
+Mary Coder           65432 310-555-5555 28  F      Programmer     $770,123 02/08/2010
+
+                     Department Supervisor's    Raise C++        Java       
+                                Name            %     Knowledge  Knowledge  
+                     ---------- --------------- ----- ---------- ---------- 
+                     6543222    Mary Leader     7%    Yes        Yes        
+
+First Software Architect object after changing the data members:
+Name                 ID #  Phone        Age Gender Job Title       Salary  Hire Date  
+-------------------  ----- ------------ --- ------ -------------- -------- ---------- 
+Sally Designer       87878 310-555-8888 38  F      Architect      $870,123 02/08/2003
+
+                     Department Supervisor's    Raise Years of  
+                                Name            %     Experience
+                     ---------- --------------- ----- ----------
+                     6543422    Big Boss        8%    11        
+
